@@ -13,7 +13,7 @@ The road is a Python list where each item is a `100 m` section:
 
 ## Files in This Project
 
-* `road_simulation.py` — Your vehicle logic and road setup (the only Python file you edit)
+* `road_simulation.py` — Your vehicle logic and road setup
 * `transit_program.py` — Runs the simulation loop, menu, and logging
 * `engine.py` & `index.html` — Powers the web visualization
 * `analyze_log.sh` — Bash script that summarizes your driving logs
